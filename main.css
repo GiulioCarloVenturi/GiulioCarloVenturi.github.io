@@ -28,7 +28,6 @@ h1 {
   font-size: 40px;
   font-family: "Varela Round", sans-serif;
   font-weight: normal;
-  margin-bottom: 15px;
 }
 
 h2 {
@@ -36,7 +35,6 @@ h2 {
   font-size: 20px;
   font-family: "Varela Round", sans-serif;
   font-weight: normal;
-  margin-bottom: 10px;
 }
 
 nav {
@@ -119,7 +117,7 @@ nav a:hover:after {
 
 .text {
   font-family: "Varela Round", sans-serif;
-  text-align: left;
+  text-align: justified;
   font-size: 15px;
   margin-top: 30px;
   margin-bottom: 30px;
@@ -130,8 +128,7 @@ nav a:hover:after {
   font-family: "Varela Round", sans-serif;
   text-align: left;
   font-size: 13px;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin-right: 30px;
 }
 
 .nameabout {
