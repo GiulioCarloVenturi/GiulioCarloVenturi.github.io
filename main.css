@@ -117,7 +117,7 @@ nav a:hover:after {
 
 .text {
   font-family: "Varela Round", sans-serif;
-  text-align: justified;
+  text-align: justify;
   font-size: 15px;
   margin-top: 30px;
   margin-bottom: 30px;
@@ -125,9 +125,9 @@ nav a:hover:after {
 
 .abstract {
   font-family: "Varela Round", sans-serif;
-  text-align: justified;
+  text-align: justify;
   font-size: 13px;
-  margin-right: 200px;
+  margin-right: 3em;
 }
 
 .nameabout {
