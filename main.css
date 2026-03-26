@@ -35,6 +35,7 @@ h2 {
   font-size: 20px;
   font-family: "Varela Round", sans-serif;
   font-weight: normal;
+  margin-bottom: 0;
 }
 
 nav {
@@ -127,7 +128,8 @@ nav a:hover:after {
   font-family: "Varela Round", sans-serif;
   text-align: justify;
   font-size: 13px;
-  margin-right: 3em;
+  margin-right: 5cm;
+  margin-bottom: 0;
 }
 
 .nameabout {
@@ -149,21 +151,6 @@ nav a:hover:after {
   margin-bottom: 50px;
   margin-left: 50px;
   margin-right: 50px;
-}
-
-.skills {
-  border-radius: 20px;
-  height: 30px;
-  width: 600px;
-  background-color: #dbdbdb;
-}
-
-.skill {
-  font-family: "Titillium Web", sans-serif;
-  font-size: 20px;
-  text-align: left;
-  margin-bottom: 5px;
-  margin-top: 20px;
 }
 
 .html {
